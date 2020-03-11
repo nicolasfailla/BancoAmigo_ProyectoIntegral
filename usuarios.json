@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "nombre": "Jorge Luis Borges",
+        "email": "jorgitob@example.com",
+        "saldo": 1000, 
+        "pass": "leyendo1234"
+    },
+    {
+        "id": 2, 
+        "nombre": "Daniel Segovia",
+        "email": "danikpo@example.com",
+        "saldo": 10, 
+        "pass": "desarrollando1235"
+    }
+]
